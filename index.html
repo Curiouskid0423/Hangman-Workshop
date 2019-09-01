@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hangman App</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div>
+        <h1>Hangman App</h1>
+        <p style="padding: 1rem 0;">Guess right before the stickman dies!</p>
+        <h4 style="margin-bottom: 3rem">You have <span id="guessesRemain"></span> guesses remaining</h4>
+        <div id="showQuestion" class="puzzle"></div>
+        <button id="reset" class="button">Reset</button>
+        <div id="showResult"></div>
+    </div>
+</body>
+    <script type="text/javascript" src="js/requests.js"></script>
+    <script type="text/javascript" src="js/hangman-function.js"></script>
+    <script type="text/javascript" src="js/hangman-app.js"></script>
+</html>
