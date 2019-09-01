@@ -13,12 +13,12 @@
 </div> 
   <body>
 
-    Hangman is a basic javascript app I built for the front-end web workshop I taught this summer (2019)
+    Hangman is a basic javascript app/game I built for the front-end web workshop I taught this summer (2019)
     to give students a taste of DOM manipulation, asynchronous javascript, and http request.
     
   </body>
   
 </html>
 
-![Demo](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/Flow-of-data.png)
+![Demo](https://raw.githubusercontent.com/Curiouskid0423/Hangman-Workshop/master/Hangman%20Screenshot.png)
 
