@@ -1,4 +1,4 @@
-# **Maker Portfolio**
+# **Hangman - for TopScore Workshop Instruction**
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -16,44 +16,17 @@
 
 > **Languages**
 <div style="margin-left: 3rem">
-  <h5>Python &nbsp;| &nbsp; Bootstrap &nbsp; | &nbsp; jQuery | &nbsp;  JavaScript &nbsp; | &nbsp; Scss 
-  <br>(APIs/Library) &nbsp;&nbsp;&nbsp; Tensorflow, Numpy, Tesseract, Unsplash API</h5>
+  <h5>Python &nbsp;| &nbsp; JavaScript &nbsp; | &nbsp; HTML | &nbsp;  CSS 
 
 </div> 
   <body>
 
-    This repository contains the core Deep Learning Code of Poetic Dream 
-    Some pre-trained models are not uploaded
-    
-    1.    OCR-Text-Detection with Tesseract (&pytessearct ocr)
-    2.    Abstractive Summarization for reviews 
-    3.    RAKE (Keyword-Extraction) algorithm   (expedient for abstractive summarization)
-    4.    LSTM Sentiment Analysis
-    5.    Neural Style Transfer in Tensorflow
-    
-    -    GUI Code: Flask + Bootstrap (Full Stack Web Dev. -- Bootstrap, Scss, jQuery, jQuery, JSON...)
+    Hangman is a basic javascript app I built for the front-end web workshop I taught this summer (2019)
+    to give students a taste of DOM manipulation, asynchronous javascript, and http request.
     
   </body>
   
 </html>
 
-![Flow-of-Data](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/Flow-of-data.png)
+![Demo](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/Flow-of-data.png)
 
-> **Demo Webpages**
-
-![Poetic Dream Cover Photo](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/Poetic_Dream_Cover.png)
-<hr>
-
-![Screenshot1](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/UI-Screenshot/Screenshot-1.png)
-<hr>
-
-![Screenshot2](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/UI-Screenshot/Screenshot-2.png)
-<hr>
-
-![Screenshot3](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/UI-Screenshot/Screenshot-3.png)
-<hr>
-
-![Screenshot4](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/UI-Screenshot/Screenshot-redirect.png)
-<hr>
-
-![Screenshot4](https://raw.githubusercontent.com/Curiouskid0423/Poetic_Dream/master/UI-Screenshot/Screenshot-4.png)
